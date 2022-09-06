@@ -43,5 +43,7 @@ section#login {
     
 section#login > div#imagem {
 
-    background: #5f2c82 url(../imagens/pexels-nicolas-segretain-13287124\ \(1\).jpg) no-repeat;
+    background: #5f2c82 url(../imagens/pexels-nicolas.jpg) no-repeat;
+    background-size: cover;
+    background-position: ;
 }

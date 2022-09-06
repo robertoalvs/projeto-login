@@ -41,7 +41,7 @@ section#login {
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.445);
 }
     
-section#login > div#imagem {
+section#login > div#foto {
 
     background: #5f2c82 url(../imagens/pexels-nicolas.jpg) no-repeat;
     background-size: cover;
